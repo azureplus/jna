@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/alphamaskdemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/balloonmanagerdemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/balloontips" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dnddemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/shapedwindowdemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/w32keyhook" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="demo" level="project" />
+    <orderEntry type="library" name="jna-platform" level="project" />
+    <orderEntry type="library" name="demo-x11" level="project" />
+    <orderEntry type="library" name="demo-dnd" level="project" />
+    <orderEntry type="library" name="demo-balloonmanager" level="project" />
+    <orderEntry type="library" name="demo-shapedwindow" level="project" />
+    <orderEntry type="library" name="jnacontrib" level="project" />
+    <orderEntry type="library" name="demo-w32keyhook" level="project" />
+    <orderEntry type="library" name="demo-balloontips" level="project" />
+    <orderEntry type="library" name="dist" level="project" />
+    <orderEntry type="library" name="jws" level="project" />
+    <orderEntry type="library" name="demo-alphamask" level="project" />
+    <orderEntry type="library" name="build" level="project" />
+    <orderEntry type="module" module-name="native_window_msg" />
+    <orderEntry type="module" module-name="platform" />
+    <orderEntry type="module" module-name="w32printing" />
+    <orderEntry type="module" module-name="jna" />
+  </component>
+</module>
